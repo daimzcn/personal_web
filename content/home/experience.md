@@ -29,7 +29,6 @@ experience:
     location: 'Division of Geological and Planetary Sciences, Caltech'
     date_start: 'Jun 2021'
     date_end: ''
-    description:
         
   - title: 'Retrieve water in Early Inner Solar System'
     company: 'Advisor: Prof. Hejiu Hui' 
@@ -38,7 +37,6 @@ experience:
     location: 'School of Earth Science and Engineering, Nanjing University'
     date_start: 'Oct 2020'
     date_end: 'Jul 2021'
-    description: 
     
   - title: 'Reconstruct paleoenvironment in Eastern China'
     company: ‘Advisor: Dr. Bin Zhou' 
@@ -47,7 +45,6 @@ experience:
     location: 'School of Earth Science and Engineering, Nanjing University'
     date_start: 'Dec 2018'
     date_end: 'Sept 2020'
-    description: 
 
 design:
   columns: '2'
