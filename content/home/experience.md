@@ -41,7 +41,7 @@ experience:
     description: 
     
   - title: 'Reconstruct paleoenvironment in Eastern China'
-    company: Advisor: 'Dr. Bin Zhou' 
+    company: ‘Advisor: Dr. Bin Zhou' 
     company_url: 'https://scholar.google.com/citations?user=x-j9lnoAAAAJ&hl=zh-CN'
     company_logo: NJU_logo
     location: 'School of Earth Science and Engineering, Nanjing University'
