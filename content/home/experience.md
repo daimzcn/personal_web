@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'Constrain CH4 emission in LA'
-    company: Advisor: 'Prof. Yuk L. Yung, Caltech'
+    company: ‘Advisor: Prof. Yuk L. Yung, Caltech'
     company_url: 'https://www.gps.caltech.edu/people/yuk-l-yung'
     company_logo: caltech_logo
     location: 'Division of Geological and Planetary Sciences, Caltech'
