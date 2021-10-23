@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Constrain CH4 emission in LA
-    company: Advisor: Prof. Yuk L. Yung, Caltech
+  - title: 'Constrain CH4 emission in LA'
+    company: Advisor: 'Prof. Yuk L. Yung, Caltech'
     company_url: 'https://www.gps.caltech.edu/people/yuk-l-yung'
     company_logo: caltech_logo
-    location: Division of Geological and Planetary Sciences, Caltech
+    location: 'Division of Geological and Planetary Sciences, Caltech'
     date_start: 'Jun 2021'
     date_end: ''
     description:
         
-  - title: Retrieve water in Early Inner Solar System
-    company: Advisor: Prof. Hejiu Hui, 
+  - title: 'Retrieve water in Early Inner Solar System'
+    company: 'Advisor: Prof. Hejiu Hui' 
     company_url: 'https://scholar.google.com/citations?user=x-j9lnoAAAAJ&hl=zh-CN'
     company_logo: NJU_logo
-    location: School of Earth Science and Engineering, Nanjing University
+    location: 'School of Earth Science and Engineering, Nanjing University'
     date_start: 'Oct 2020'
     date_end: 'Jul 2021'
     description: 
     
-  - title: Reconstruct paleoenvironment in Eastern China
-    company: Advisor: Dr. Bin Zhou, 
+  - title: 'Reconstruct paleoenvironment in Eastern China'
+    company: Advisor: 'Dr. Bin Zhou' 
     company_url: 'https://scholar.google.com/citations?user=x-j9lnoAAAAJ&hl=zh-CN'
     company_logo: NJU_logo
-    location: School of Earth Science and Engineering, Nanjing University
+    location: 'School of Earth Science and Engineering, Nanjing University'
     date_start: 'Dec 2018'
     date_end: 'Sept 2020'
     description: 
